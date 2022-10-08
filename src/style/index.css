@@ -100,3 +100,8 @@
   border: none;
   border-radius: 0 0 3px 0;
 }
+
+.centered {
+  text-align: center;
+  padding-top: 2rem;
+}
